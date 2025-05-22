@@ -15,7 +15,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=giacomo-minnetti&show_icons=true&theme=radical&border_radius=10&hide_title=true" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=n5gs7y94ghzvs1mtcrd5wj9dw&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false" alt="Spotify compact"/>
+      [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n5gs7y94ghzvs1mtcrd5wj9dw&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
     </td>
   </tr>
 </table>
