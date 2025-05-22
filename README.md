@@ -6,28 +6,23 @@
 </p>
 
 ---
+### 🎧 In ascolto ora e 📊 Le mie statistiche
 
-### 🎧 In ascolto ora
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=n5gs7y94ghzvs1mtcrd5wj9dw&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=giacomo-minnetti&show_icons=true&theme=radical&border_radius=10&hide_title=true" alt="GitHub Stats" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=giacomo-minnetti&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=n5gs7y94ghzvs1mtcrd5wj9dw&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
-  </a>
-</p>
-
----
-
-### 📊 Le mie statistiche
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giacomo-minnetti&show_icons=true&theme=radical&border_radius=10&hide_title=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giacomo-minnetti&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ### 🧠 Tecnologie che uso
 
