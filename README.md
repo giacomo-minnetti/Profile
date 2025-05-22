@@ -38,16 +38,8 @@
 ### 🚀 Tech stack e strumenti
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,mysql,git,github,linux,vite" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,c#,java,mysql,flutter,html5,css,js" alt="Skills" />
 </p>
-
----
-
-### 🧠 Attualmente sto studiando
-
-- 🧩 WebRTC e streaming real-time
-- ⚙️ Architetture web modulari con Node.js
-- 🎮 UI moderne con React + Tailwind
 
 ---
 
