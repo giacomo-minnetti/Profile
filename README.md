@@ -13,6 +13,11 @@
     <td align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=giacomo-minnetti&show_icons=true&theme=radical&border_radius=10" alt="Giacomo's GitHub stats"/>
+        <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giacomo-minnetti&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomo-minnetti&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
+</p>
       </a>
     </td>
     <td align="center">
