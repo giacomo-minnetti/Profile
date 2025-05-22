@@ -38,7 +38,7 @@
 ### 🚀 Tech stack e strumenti
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,c#,java,mysql,flutter,html5,css,js" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,mysql,flutter,html,css,js" alt="Skills" />
 </p>
 
 ---
