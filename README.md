@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-<---
+---
 
 ### 🚀 Tech stack e strumenti
 
