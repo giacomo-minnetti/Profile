@@ -54,8 +54,8 @@
 ### 📫 Contatti
 
 <p>
-  📧 Email: <code>tuo@email.com</code><br/>
-  💼 <a href="https://linkedin.com/in/giacomo-minnetti">LinkedIn</a><br/>
+  📧 Email: <code>giacomo.minnetti05@gmail.com</code><br/>
+  💼 <a href="(https://www.linkedin.com/in/giacomo-minnetti-841b5b329/)">LinkedIn</a><br/>
   🌐 <a href="https://giacomo-minnetti.dev">Portfolio</a>
 </p>
 
