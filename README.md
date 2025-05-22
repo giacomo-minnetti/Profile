@@ -28,17 +28,7 @@
   </tr>
 </table>
 
----
-
-### 📊 Attività GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giacomo-minnetti&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giacomo-minnetti&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
-</p>
-
----
+<---
 
 ### 🚀 Tech stack e strumenti
 
